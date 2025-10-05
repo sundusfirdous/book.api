@@ -35,5 +35,4 @@ public class BookDto {
     private String bookCover;
 
     private String bookCoverUrl;
-
 }
